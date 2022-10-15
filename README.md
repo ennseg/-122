@@ -11,3 +11,4 @@
 - 1 задание ЕГЭ
 - 2 задание 355кг(3.xlsx)
 - файл юпитер
+- wordpress: ennsegor122.wordpress.com

@@ -12,4 +12,5 @@
 - 2 задание 355кг(3.xlsx)
 - файл юпитер
 - wordpress: ennsegor122.wordpress.com
--нейронка в excel(Нейронка.xlsx)
+- нейронка в excel(Нейронка.xlsx)
+- CodePen: https://codepen.io/ennseg/pen/vYjPmbX

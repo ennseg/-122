@@ -15,4 +15,5 @@
 - нейронка в excel(Нейронка.xlsx)
 - CodePen: https://codepen.io/ennseg/pen/vYjPmbX
 - Таблица истиности(Таблица истиности.xlsx)
-- BD тест
+- База данных в .py
+- Код Хэмминга

@@ -14,3 +14,4 @@
 - wordpress: ennsegor122.wordpress.com
 - нейронка в excel(Нейронка.xlsx)
 - CodePen: https://codepen.io/ennseg/pen/vYjPmbX
+- Таблица истиности(Таблица истиности.xlsx)

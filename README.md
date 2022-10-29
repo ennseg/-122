@@ -21,5 +21,5 @@
 - Wordpress: ennsegor122.wordpress.com
 - CodePen: https://codepen.io/ennseg/pen/vYjPmbX
 ### 17. Закон двойного отрицания:
--  $$\(\bar {\bar A}=A\)$$ - формулв двойного отрицания
+-  $\(\bar {\bar A}=A\)$ - формулв двойного отрицания
 ![This is an image](https://wikimedia.org/api/rest_v1/media/math/render/svg/4da19b846dd66b8cce81ed68580f446d6143d4b3)

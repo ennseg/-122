@@ -24,6 +24,6 @@
 -  $\(\bar {\bar A}=A\)$ - формулв двойного отрицания
 ![This is an image](https://wikimedia.org/api/rest_v1/media/math/render/svg/4da19b846dd66b8cce81ed68580f446d6143d4b3)
 ### Формулы из физики и математики:
-- $$\overline{E^{2}_{1}} = \sqrt{\frac{Fa^{x-1}}{(x-1)x}}$$
-- $$\overset{n}{\sum_{i}^{}}M_{i}=0$$
-- $$g_{п}=\frac{GM_{п}}{R^{2}}$$
+- ![This is an image](file:///C:/Users/Student/Downloads/lagrida_latex_editor%20(13).png) $$\overline{E^{2}_{1}} = \sqrt{\frac{Fa^{x-1}}{(x-1)x}}$$
+- ![This is an image]() $$\overset{n}{\sum_{i}^{}}M_{i}=0$$
+- ![This is an image]() $$g_{п}=\frac{GM_{п}}{R^{2}}$$

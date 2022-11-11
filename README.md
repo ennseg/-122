@@ -23,3 +23,5 @@
 ### 17. Закон двойного отрицания:
 -  $\(\bar {\bar A}=A\)$ - формулв двойного отрицания
 ![This is an image](https://wikimedia.org/api/rest_v1/media/math/render/svg/4da19b846dd66b8cce81ed68580f446d6143d4b3)
+### Формулы из физики и математики:
+- $$\overline{E^{2}_{1}} = \sqrt{\frac{Fa^{x-1}}{(x-1)x}}$$

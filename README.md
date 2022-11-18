@@ -18,6 +18,7 @@
 - Пробный файл Jupyter (юпитер2720.ipynb)
 - Таблица истинности в питон (Истинность в питон.py)
 - Кодирование (кодирование6.py)
+- Рисунок жёлтого смайлика (drawing.svg)
 ### Ссылки на сторонние сайты:
 - Wordpress: ennsegor122.wordpress.com
 - CodePen: https://codepen.io/ennseg/pen/vYjPmbX

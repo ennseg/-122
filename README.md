@@ -19,6 +19,8 @@
 - Таблица истинности в питон (Истинность в питон.py)
 - Кодирование (кодирование6.py)
 - Рисунок жёлтого смайлика (drawing.svg)
+- #1 Видео в python (slideshow.py)
+- #2 Видео в python (moviepy.py)
 ### Ссылки на сторонние сайты:
 - Wordpress: ennsegor122.wordpress.com
 - CodePen: https://codepen.io/ennseg/pen/vYjPmbX

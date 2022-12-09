@@ -22,6 +22,7 @@
 - #1 Видео в python (slideshow.py)
 - #2 Видео в python (moviepy.py)
 - изображения из midjourney (midjourney)
+- Рисунок ветки и птички (Inkscape)
 ### Ссылки на сторонние сайты:
 - Wordpress: ennsegor122.wordpress.com
 - CodePen: https://codepen.io/ennseg/pen/vYjPmbX

@@ -44,10 +44,10 @@
 | 15 | |
 | 16 | |
 | 17 | |
+| 18 | |
 | 19 | 64 |
-| 19 | |
-| 20 | |
-| 21 | |
+| 20 | 32, 63 |
+| 21 | 62 |
 | 22 | |
 | 23 | |
 | 24 | |
@@ -68,7 +68,7 @@
 ![lagrida_latex_editor (14)](https://user-images.githubusercontent.com/114716799/201260469-6990cce8-1232-496b-97de-01278aa0687e.png)
 - $$g_{п}=\frac{GM_{п}}{R^{2}}$$
 ![lagrida_latex_editor (15)](https://user-images.githubusercontent.com/114716799/201260531-7ce18bf0-5df9-4300-b400-047808fe4560.png)
-### 19. 
+### 19. ЕГЭ
 ```mermaid
 stateDiagram-v2
 
@@ -81,3 +81,4 @@ stateDiagram-v2
     64 --> 32:*2
     64 --> 63:+1
 ```
+### 20. ЕГЭ

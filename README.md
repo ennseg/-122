@@ -69,6 +69,7 @@
 - $$g_{п}=\frac{GM_{п}}{R^{2}}$$
 ![lagrida_latex_editor (15)](https://user-images.githubusercontent.com/114716799/201260531-7ce18bf0-5df9-4300-b400-047808fe4560.png)
 ### 19. 
+```mermaid
 stateDiagram-v2
 
     >=129 --> 128:+1
@@ -79,3 +80,4 @@ stateDiagram-v2
     127--> 126:+1
     64 --> 32:*2
     64 --> 63:+1
+```

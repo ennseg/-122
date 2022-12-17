@@ -44,7 +44,7 @@
 | 15 | |
 | 16 | |
 | 17 | |
-| 19 | |
+| 19 | 64 |
 | 19 | |
 | 20 | |
 | 21 | |
@@ -68,3 +68,14 @@
 ![lagrida_latex_editor (14)](https://user-images.githubusercontent.com/114716799/201260469-6990cce8-1232-496b-97de-01278aa0687e.png)
 - $$g_{п}=\frac{GM_{п}}{R^{2}}$$
 ![lagrida_latex_editor (15)](https://user-images.githubusercontent.com/114716799/201260531-7ce18bf0-5df9-4300-b400-047808fe4560.png)
+### 19. 
+- ''mermaid 
+stateDiagram-v2
+    129 --> 128: +1
+    129 --> 65: *2
+    65 --> 64: +1
+    65 --> 26: *2
+    128 --> 127: +1
+    128 --> 64: *2  
+  '''
+  

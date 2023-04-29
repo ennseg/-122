@@ -11,6 +11,8 @@
 6. Сверяем посчитанное расстояние с максимальным.
 7. Выводим максимальное расстояние.
 
+код:
+
 from itertools import product
 
 a=[
@@ -32,6 +34,41 @@ for i in z:
         s=0 
         for j in range(len(i)-1):
             s=s+a[int(i[j])][int(i[j+1])]
+            if s>=maxx:
+                maxx=s 
+
+print(maxx)
+
+укороченный код:
+
+from itertools import product
+
+a=[
+    [0],
+    [712],
+    [673,1385],
+    [1075,1800,1499],
+    [875,1577,239,1287],
+    [1622,2348,2046,551,1835],
+    [423,1128,244,1266,442,1813]
+                                    ] 
+n='0123456'
+
+z=product(n,repeat=7)
+
+maxx=0 
+
+for i in z:
+    
+    if all(i.count(x)==1 for x in n):
+        s=0
+        
+        for j in range(len(i)-1):
+            
+            if int(i[j]) > int(i[j+1]):
+                s=s+a[int(i[j])][int(i[j+1])]
+            else:
+                s=s+a[int(i[j+1])][int(i[j])]
             if s>=maxx:
                 maxx=s 
 

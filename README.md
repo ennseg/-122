@@ -1,6 +1,6 @@
 # Infa88
 ## Соболев Егор, 122гр.
-![This is an image](https://islam.ru/sites/default/files/img/veroeshenie/2011/12/Allah_vahid01.jpg)
+![This is an image](https://memi.klev.club/uploads/posts/2024-04/memi-klev-club-vz5q-p-memi-malenkii-kot-9.jpg)
 ### Список файлов в репозитории:
 - 1 задание ЕГЭ (1 задание.txt)
 - Перевод из десятичной СС в указанную в .py (10 в не10.py)
